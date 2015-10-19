@@ -1,0 +1,11 @@
+Script started on Mon Oct 19 22:45:51 2015
+[?1034h________________________________________________________________________________
+| [2015/10/19 [1;32m22:45:51[00m my_first_git] @ takuto (araotakuto) 
+| => git init
+Reinitialized existing Git repository in /Users/araotakuto/my_first_git/.git/
+________________________________________________________________________________
+| [2015/10/19 [1;32m22:45:54[00m my_first_git] @ takuto (araotakuto) 
+| => git remote add origin https://github.com/takutoarao/my_first_git.git
+________________________________________________________________________________
+| [2015/10/19 [1;32m22:46:14[00m my_first_git] @ takuto (araotakuto) 
+| => 
